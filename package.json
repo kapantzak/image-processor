@@ -1,0 +1,16 @@
+{
+  "name": "to_jpg",
+  "version": "1.0.0",
+  "description": "Convert images to jpg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Kapantzakis",
+  "license": "ISC",
+  "dependencies": {
+    "is-image": "^3.0.0",
+    "jimp": "^0.16.1",
+    "jpeg-js": "^0.4.3"
+  }
+}
